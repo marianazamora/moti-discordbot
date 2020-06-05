@@ -1,0 +1,2 @@
+# motivationaldiscordbot
+Motivational_discord_bot
